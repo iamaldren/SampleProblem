@@ -13,8 +13,8 @@ Get the first and second index, then remove the indeces from the list, and the c
 
 This is working, but not on optimal performance.
 
-## Second Solution (@geocine helped gave the idea)
+## Second Solution
 
-Instead of removing the indeces, why not just skip them?
+Instead of removing the indeces, I just skipped them.
 
 Performance improve.
